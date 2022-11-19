@@ -17,10 +17,25 @@ Jaguar Electrification Project Notes
   - Drives Stock Brake Booster
   - Delanair Mk II Air Conditioning System
 - Electric A/C Compressor: TBD
+- Electric Heating System: TBD
 - Electric Power Steering Pump
 
 - Contactors
 - Batteries: 
+
+- Throttle
+  - Stock Pedal attached to Hall-Effect Sensor    
+
+Electric Device Controls:
+  Charge Indicator & Timer:
+  Pre-Heating:
+  Vacuum Pressure Switch Alarm:
+
+Body Upgrades: 
+  - Headlight Upgrades
+  - Series 3 Electric Mirror Upgrade 
+
+Connectors & Harnesses
 
 Schematics: 
 
@@ -28,6 +43,8 @@ Schematics:
 
 # 1972 Jaguar XJ6
 - Car Revision:  Late Series I
+
+
 
 # 1982 Daimler-Double Six
 - Car Revision: Early Series III 
